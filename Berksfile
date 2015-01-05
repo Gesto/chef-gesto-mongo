@@ -1,5 +1,5 @@
 source "https://supermarket.chef.io"
 
-cookbook 'mongo'
+cookbook 'mongodb'
 
 metadata
